@@ -1,0 +1,6 @@
+:root {
+    --link-color: #5b6987;
+}
+a {
+   color: var(--link-color);
+}

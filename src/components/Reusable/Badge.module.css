@@ -1,0 +1,9 @@
+:root {
+    --badge-bg-color: #00d7d2;
+}
+
+.badge {
+    background-color: var(--badge-bg-color);
+    padding: 5px;
+    border-radius: 1px;
+}
