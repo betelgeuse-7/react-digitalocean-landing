@@ -7,7 +7,7 @@ const Links: React.FC = () => {
             <Link to="#Blog">Blog</Link>
             <Link to="#Docs">Docs</Link>
             <Link to="#Get_Support">Get Support</Link>
-            <Link to="Sales">Sales</Link>
+            <Link to="#Sales">Sales</Link>
         </Fragment>        
     );
 };
